@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://romjjjke.github.io/psh-zinc/sitemap.xml
